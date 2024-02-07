@@ -1,4 +1,4 @@
-Hello, I've tried several times to commit through VSC and it didn't work
-I've reported my issue on Telegram 
+Hello, I lost my HTML codes, I only have CSS for ToDoList.HTML
+The zip file contains my lab01
 Thank you.
 Saud AQahtani
